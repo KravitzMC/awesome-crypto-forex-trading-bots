@@ -4,8 +4,6 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ⚠️ We do not check or test repositories and tools in this repository. Use them at your own risk. ⚠️
 
-Create **trading bots** and follow **smart investors** with [Coinrule](https://coinrule.com?fp_ref=botcrypto)
-
 ## Contents
 
 * [Open source bots](#open-source-bots)
