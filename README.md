@@ -55,6 +55,7 @@ Create **trading bots** and follow **smart investors** with [Coinrule](https://c
 ## Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
+* [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [finta](https://github.com/peerchemist/finta) - Common financial technical indicators implemented in Pandas.
 * [stocklook](https://github.com/zbarge/stocklook) - A crypto currency library for trading & market making bots, account management, and data analysis.
 * [ta](https://github.com/bukosabino/ta) - A Technical Analysis library useful to do feature engineering from financial time series datasets (Open, Close, High, Low, Volume) built on Pandas and Numpy.
