@@ -133,11 +133,5 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 
 ### Forums
 
-- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.
-
----
-
-Experience the **ultimate trading bot marketplace** and online **crypto trading bot builder** with **simplicity** with [Kryll](https://kryll.io?ref=botcrypto).
-
-[![banner](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/94efbecc-df2a-454e-aa71-acad0237a868)](https://kryll.io?ref=botcrypto)
+- [Algotrading Crypto](https://algotradingcrypto.com) - Official forum for community of traders using algorithms, bots or auto trading software in crypto.![banner](https://github.com/botcrypto-io/awesome-crypto-trading-bots/assets/10849491/94efbecc-df2a-454e-aa71-acad0237a868)](https://kryll.io?ref=botcrypto)
 
