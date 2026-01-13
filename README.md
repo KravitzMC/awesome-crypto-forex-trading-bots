@@ -68,7 +68,7 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
 
 
-## Machine Learing libraries for Financial 
+## Deep Learning libraries for Financial 
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
