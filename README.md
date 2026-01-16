@@ -170,3 +170,5 @@ An awesome list about crypto trading bots, with open source bots, technical anal
 * [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algorithms, bots or auto trading software in crypto.
 * [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
 * [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
+ 
+<h3><p align="left">:warning: Please use any  bot at your own risk, and we not guarantees damage are provided. :warning:</p></h3>
