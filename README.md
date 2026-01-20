@@ -21,7 +21,7 @@ THE AUTHOR ASSUMES NO RESPONSIBILITY FOR MISUSE OR UNINTENDED RESULTS.
 BY USING THIS SCRIPT, THE USER AGREES TO ACCEPT ALL ASSOCIATED RISKS.
 PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
-## Contents
+## 🏠 Contents
 
 * [Open source bots](#open-source-bots)
 * [Technical analysis libraries](#technical-analysis-libraries)
