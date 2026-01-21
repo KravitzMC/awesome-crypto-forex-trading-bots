@@ -24,13 +24,13 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 ## 🏠 Contents
 
 * [Open source bots](#open-source-bots)
-* [Technical analysis libraries](#technical-analysis-libraries)
-* [Deep Learning](#deep-learning--linear-statistic)
-* [Market data libraries](#market-data-libraries)
-* [API and data providers](#api-and-data-providers)
+* [Technical analysis libraries](#-technical-analysis-libraries)
+* [Deep Learning](#-deep-learning--linear-statistic)
+* [Market data libraries](#-market-data-libraries)
+* [API and data providers](#-api-and-data-providers)
 * [Payment providers](#-payment-process-providers)
 * [Crypto Visa/MasterCard platform](#-crypto-visamastercard-platform)
-* [Charting libraries](#charting-libraries)
+* [Charting libraries](#-charting-libraries)
 
 ## Open source bots
 
