@@ -46,6 +46,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 🏅 [Passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance, Kucoin and Hyperliquid.
 
 🏅 [OpenTrader](https://github.com/bludnic/opentrader) - Self-hosted crypto trading bot featuring built-in strategies like GRID and DCA. Provides a UI for managing multiple bots, including paper trading and backtesting capabilities. Supports 100+ exchanges via CCXT. 
+
+🏅 [Dio](https://github.com/malciller/dio) - Trading engine for Kraken. Uses WebSocket and REST to run automated strategies with a terminal dashboard and optional Discord notifications.
  
 💻 [AI-Hedge-Fund](https://github.com/51bitquant/ai-hedge-fund-crypto) - AI-powered hedge fund for cryptocurrency trading, leveraging LLM agents for intelligent decision-making.
 
@@ -68,8 +70,6 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 💻 [crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Crypto trading bot in Node.js for Bitfinex, Bitmex, and Binance.
 
 💻 [CryptoSignal](https://github.com/CryptoSignal/Crypto-Signal) - Crypto trading bot in python for Bittrex, Binance, Bittrex, Bitfinex, Coinbase, etc.
-
-💻 [Dio](https://github.com/malciller/dio) - Trading engine for Kraken. Uses WebSocket and REST to run automated strategies with a terminal dashboard and optional Discord notifications.
 
 💻 [fast-trade](https://github.com/jrmeier/fast-trade) - Backtesting library utilizing pandas and technical analysis indicator, built with strategy portability and performance in mind for back-test trading strategies.
 
