@@ -187,6 +187,8 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Stripe](https://stripe.com/) - Online payment processing gateway and e-commerce solutions for businesses of all sizes.
 * [Coingate](https://coingate.com/) - Secure crypto payment gateway for business.
 * [Nowpayments](https://nowpayments.io/) - Accept 300+ cryptocurrencies with low fees easily.
+* [CoinPayments](https://www.coinpayments.net/) - A veteran in the space.
+* [Plisio](https://plisio.net/) - Focused on privacy and low costs and It offers tools for mass payouts.
 
 ## 💳 Crypto Visa/MasterCard Platform
 
