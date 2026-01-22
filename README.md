@@ -107,9 +107,6 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 💻 [Solie](https://github.com/cunarist/solie) - The ultimate trading bot designed for targeting the futures markets of Binance. It enables you to create and customize your own trading strategies, simulating them using real historical data from Binance with the power of Python.
 
-💻 [SolanaCopyTradingBot](https://github.com/AlphaFox000/solana-copy-trading-bot) - Advanced Solana copy trading bot with non-blocking parallel execution, must-selling protection, and multi-DEX fallback.
-
-
 ## 🔰 Technical analysis libraries
 
 * [catalyst](https://github.com/enigmampc/catalyst) - DEPRECATED - An algorithmic trading library for crypto-assets written in Python.
