@@ -194,11 +194,3 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Tevau](https://tevau.io/)
 * [Redotpay](https://www.redotpay.com/)
 * [Pionex](https://www.pionex.com)
-
-## Development Communities
-### Telegram
-
-* [Algotrading Crypto](https://t.me/algotradingcrypto) - A community for traders using algorithms, bots or auto trading software in crypto.
-* [Node.js Algo Traders](https://t.me/nodetraders) - A community for Node.js/JavaScript developers to collaborate in the world of algorithmic trading.
-* [PineScripters](https://t.me/pinescripters) - The most active independent community of Pine Scripters on the planet. Share ideas, resources & learn.
- 
