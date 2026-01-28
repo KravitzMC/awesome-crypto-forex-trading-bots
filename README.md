@@ -25,7 +25,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 
 * [Open source bots](#open-source-bots)
 * [Technical analysis libraries](#-technical-analysis-libraries)
-* [Deep Learning](#-deep-learning--linear-statistic)
+* [Machine Learning](#-machine-learning)
 * [Market data libraries](#-market-data-libraries)
 * [API and data providers](#-api-and-data-providers)
 * [Payment gateway providers](#-payment-gateway-providers)
@@ -127,7 +127,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [pyti](https://github.com/kylejusticemagnuson/pyti) -  Python library of various financial technical indicators.
 
 
-## 🎯 Deep Learning & Linear Statistic
+## 🎯 Machine Learning
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Financial Reinforcement Learning.
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
