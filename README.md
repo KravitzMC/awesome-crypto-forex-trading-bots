@@ -134,6 +134,7 @@ PROCEED WITH CAUTION AND USE PROFESSIONAL JUDGMENT AT ALL TIMES.
 * [Prophet_Predictions](https://github.com/nikita-doronin/prophet_predictions_bot) - Time series forecasting for stock and crypto.
 * [pmdarima](https://github.com/alkaline-ml/pmdarima) - Time series ARIMA model estimators for Python.
 * [Forecasting-Bitcoin-Prices](https://github.com/AaronFlore/Forecasting-Bitcoin-Prices/blob/main/forecasting-btc-arima-xgboost-prophet-lstm.ipynb) - Forecasting Bitcoin Prices via ARIMA, XGBoost, Prophet, and LSTM models in Python.
+* [TCN](https://github.com/alanwatts07/tcn-trading-bot) - Real-time cryptocurrency trading system using Temporal Convolutional Networks with online probability calibration and walk-forward validation.
 
 ## 🚀 Market data libraries
 
